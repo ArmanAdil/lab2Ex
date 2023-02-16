@@ -8,3 +8,5 @@ deploy:
   local_dir: build
   on:
     branch: main
+
+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
